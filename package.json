@@ -1,0 +1,25 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "A custom HashMap and HashSet implementation in TypeScript.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanghavi2611/Hashmap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanghavi2611/Hashmap/issues"
+  },
+  "homepage": "https://github.com/sanghavi2611/Hashmap#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
+
